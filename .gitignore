@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HTTPServer/v15
+/HTTPServer/bin/Debug
+/HTTPServer/obj/x86/Debug
+/.vs/Computer-Networks---Httpp-Server/v16/.suo
+/.vs/HTTPServer/v16/Server/sqlite3
+/.vs/HTTPServer/v16/.suo
+/.vs/slnx.sqlite
+.vs/ProjectSettings.json
+*.cache
+.vs/ProjectSettings.json
+/.vs/VSWorkspaceState.json
